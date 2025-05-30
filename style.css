@@ -2,6 +2,8 @@ div{
     width: 200px;
     height: 300px;
     border: 1px solid black;
+    color: brown;
+    font-size: 20px;
 }
 footer{
     width: 100%;
@@ -9,3 +11,4 @@ footer{
     background-color: aqua;
     color: blue;
 }
+
